@@ -1,0 +1,66 @@
+2025-02-26 18:32:13,843 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-02-26 18:32:13,844 - INFO - [33mPress CTRL+C to quit[0m
+2025-02-26 18:32:13,845 - INFO -  * Restarting with stat
+2025-02-26 18:32:15,392 - WARNING -  * Debugger is active!
+2025-02-26 18:32:15,393 - INFO -  * Debugger PIN: 694-783-565
+2025-02-26 18:37:24,448 - INFO - Starting analysis
+2025-02-26 18:37:24,448 - INFO - Loading data from /home/naod/Projects/tenx/W10/Brent-Oil-Price-Prediction/data/raw/BrentOilPrices.csv
+2025-02-26 18:37:25,294 - INFO - Computing moving average
+2025-02-26 18:37:25,299 - INFO - Performing time series decomposition
+2025-02-26 18:37:25,643 - INFO - Analysis completed successfully
+2025-02-26 18:37:25,987 - INFO - 127.0.0.1 - - [26/Feb/2025 18:37:25] "GET /analyze HTTP/1.1" 200 -
+2025-02-26 18:37:32,592 - INFO - Starting analysis
+2025-02-26 18:37:32,593 - INFO - Loading data from /home/naod/Projects/tenx/W10/Brent-Oil-Price-Prediction/data/raw/BrentOilPrices.csv
+2025-02-26 18:37:33,337 - INFO - Computing moving average
+2025-02-26 18:37:33,339 - INFO - Performing time series decomposition
+2025-02-26 18:37:33,535 - INFO - Analysis completed successfully
+2025-02-26 18:37:33,885 - INFO - 127.0.0.1 - - [26/Feb/2025 18:37:33] "GET /analyze HTTP/1.1" 200 -
+2025-02-26 18:41:22,531 - INFO - Starting analysis
+2025-02-26 18:41:22,531 - INFO - Loading data from /home/naod/Projects/tenx/W10/Brent-Oil-Price-Prediction/data/raw/BrentOilPrices.csv
+2025-02-26 18:41:23,108 - INFO - Computing moving average
+2025-02-26 18:41:23,110 - INFO - Performing time series decomposition
+2025-02-26 18:41:23,259 - INFO - Analysis completed successfully
+2025-02-26 18:41:23,528 - INFO - 127.0.0.1 - - [26/Feb/2025 18:41:23] "GET /analyze HTTP/1.1" 200 -
+2025-02-26 18:41:29,819 - INFO - Starting analysis
+2025-02-26 18:41:29,820 - INFO - Loading data from /home/naod/Projects/tenx/W10/Brent-Oil-Price-Prediction/data/raw/BrentOilPrices.csv
+2025-02-26 18:41:30,538 - INFO - Computing moving average
+2025-02-26 18:41:30,540 - INFO - Performing time series decomposition
+2025-02-26 18:41:30,735 - INFO - Analysis completed successfully
+2025-02-26 18:41:31,077 - INFO - 127.0.0.1 - - [26/Feb/2025 18:41:31] "GET /analyze HTTP/1.1" 200 -
+2025-02-26 18:46:38,260 - INFO - Starting analysis
+2025-02-26 18:46:38,260 - INFO - Loading data from /home/naod/Projects/tenx/W10/Brent-Oil-Price-Prediction/data/raw/BrentOilPrices.csv
+2025-02-26 18:46:38,866 - INFO - Computing moving average
+2025-02-26 18:46:38,867 - INFO - Performing time series decomposition
+2025-02-26 18:46:39,082 - INFO - Analysis completed successfully
+2025-02-26 18:46:39,372 - INFO - 127.0.0.1 - - [26/Feb/2025 18:46:39] "GET /analyze HTTP/1.1" 200 -
+2025-02-26 18:48:48,675 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-02-26 18:48:48,675 - INFO - [33mPress CTRL+C to quit[0m
+2025-02-26 18:48:48,676 - INFO -  * Restarting with stat
+2025-02-26 18:48:50,148 - WARNING -  * Debugger is active!
+2025-02-26 18:48:50,148 - INFO -  * Debugger PIN: 694-783-565
+2025-02-26 18:48:56,556 - INFO - Starting analysis
+2025-02-26 18:48:56,556 - INFO - Loading data from /home/naod/Projects/tenx/W10/Brent-Oil-Price-Prediction/data/raw/BrentOilPrices.csv
+2025-02-26 18:48:57,243 - INFO - Computing moving average
+2025-02-26 18:48:57,245 - INFO - Performing time series decomposition
+2025-02-26 18:48:57,465 - INFO - Analysis completed successfully
+2025-02-26 18:48:57,764 - INFO - 127.0.0.1 - - [26/Feb/2025 18:48:57] "GET /analyze HTTP/1.1" 200 -
+2025-02-26 18:48:57,768 - INFO - Starting analysis
+2025-02-26 18:48:57,768 - INFO - Loading data from /home/naod/Projects/tenx/W10/Brent-Oil-Price-Prediction/data/raw/BrentOilPrices.csv
+2025-02-26 18:48:59,572 - INFO - Computing moving average
+2025-02-26 18:48:59,574 - INFO - Performing time series decomposition
+2025-02-26 18:48:59,931 - INFO - Analysis completed successfully
+2025-02-26 18:49:00,284 - INFO - 127.0.0.1 - - [26/Feb/2025 18:49:00] "GET /analyze HTTP/1.1" 200 -
+2025-02-26 18:49:15,839 - INFO - Starting analysis
+2025-02-26 18:49:15,841 - INFO - Loading data from /home/naod/Projects/tenx/W10/Brent-Oil-Price-Prediction/data/raw/BrentOilPrices.csv
+2025-02-26 18:49:16,749 - INFO - Computing moving average
+2025-02-26 18:49:16,753 - INFO - Performing time series decomposition
+2025-02-26 18:49:16,952 - INFO - Analysis completed successfully
+2025-02-26 18:49:17,387 - INFO - 127.0.0.1 - - [26/Feb/2025 18:49:17] "GET /analyze HTTP/1.1" 200 -
+2025-02-26 18:49:17,393 - INFO - Starting analysis
+2025-02-26 18:49:17,393 - INFO - Loading data from /home/naod/Projects/tenx/W10/Brent-Oil-Price-Prediction/data/raw/BrentOilPrices.csv
+2025-02-26 18:49:18,567 - INFO - Computing moving average
+2025-02-26 18:49:18,569 - INFO - Performing time series decomposition
+2025-02-26 18:49:18,873 - INFO - Analysis completed successfully
+2025-02-26 18:49:19,446 - INFO - 127.0.0.1 - - [26/Feb/2025 18:49:19] "GET /analyze HTTP/1.1" 200 -
