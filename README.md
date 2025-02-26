@@ -2,6 +2,8 @@
 
 This project analyzes the impact of political and economic events on Brent oil prices using time series models, machine learning, and econometric analysis. The tech stack includes Python (ARIMA, LSTM, VAR), Flask, React, and data visualization tools like Recharts and D3.js.
 
+![Screenshot](assets/images/image1.png)
+
 ## Project Structure
 
 
@@ -10,6 +12,27 @@ This project analyzes the impact of political and economic events on Brent oil p
 │   ├── __init__.py
 │   ├── serve_model.py
 │   └── README.md
+├── frontend
+│   ├── eslint.config.js
+│   ├── index.html
+│   ├── node_modules
+│   ├── package.json
+│   ├── package-lock.json
+│   ├── postcss.config.js
+│   ├── src
+│   │   ├── App.tsx
+│   │   ├── index.css
+│   │   ├── main.tsx
+│   │   └── vite-env.d.ts
+│   ├── tailwind.config.js
+│   ├── tsconfig.app.json
+│   ├── tsconfig.json
+│   ├── tsconfig.node.json
+│   └── vite.config.ts
+├── assets
+│   └── images
+│       ├── image1.png
+│       └── image2.png
 ├── checkpoints
 │   ├── arima_model.pkl
 │   ├── garch_model.pkl
@@ -62,3 +85,25 @@ This project analyzes the impact of political and economic events on Brent oil p
 
 4. **Access the API**:
     Open your browser and navigate to `http://127.0.0.1:5000`.
+
+
+## Running the React App
+
+To run the React app, follow these steps:
+
+1. Navigate to the `frontend` directory:
+   ```sh
+   cd frontend
+   ```
+
+2. Install the dependencies:
+   ```sh
+   npm install
+   ```
+
+3. Start the development server:
+   ```sh
+   npm run dev
+   ```
+
+4. Open your browser and navigate to `http://localhost:3000` to view the app.
